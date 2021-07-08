@@ -1,0 +1,39 @@
+{
+   "general": {
+        "version": "1.0.0",
+        "prefix": "f!",
+        "modroles": [
+            "862091590532726795",
+            "862108690240503839"
+        ],
+
+        "error": {
+            "errorColor": "0xffadad",
+            "errorMessageTitle": "**Oops... Etwas ist schiefgelaufen! :x:**"
+        },
+        "success": {
+            "successColor": "0xcaffbf",
+            "successMessageTitle": "**Hurra! Erfolg!**"
+        }
+
+    },
+    "autorole": {
+        "enabled": false,
+        "role": "",
+
+        "maxTime": "120000"
+    },
+    "post": {
+        "postGuild": "862091474685526047",
+        "postChannel": "862307199542624287"
+    },
+    "poll": {
+        "pollGuild": "862091474685526047",
+        "pollChannel": "862307199542624287",
+
+        "defaultEmojis": [
+            ":upvote:",
+            ":downvote:"
+        ]
+    }
+}
